@@ -1,0 +1,7 @@
+C:\Users\balaji.ganesh\source\repos\RestaurantMenuApp\RestaurantMenuApp\bin\Debug\RestaurantMenuApp.exe.config
+C:\Users\balaji.ganesh\source\repos\RestaurantMenuApp\RestaurantMenuApp\bin\Debug\RestaurantMenuApp.exe
+C:\Users\balaji.ganesh\source\repos\RestaurantMenuApp\RestaurantMenuApp\bin\Debug\RestaurantMenuApp.pdb
+C:\Users\balaji.ganesh\source\repos\RestaurantMenuApp\RestaurantMenuApp\obj\Debug\RestaurantMenuApp.csprojAssemblyReference.cache
+C:\Users\balaji.ganesh\source\repos\RestaurantMenuApp\RestaurantMenuApp\obj\Debug\RestaurantMenuApp.csproj.CoreCompileInputs.cache
+C:\Users\balaji.ganesh\source\repos\RestaurantMenuApp\RestaurantMenuApp\obj\Debug\RestaurantMenuApp.exe
+C:\Users\balaji.ganesh\source\repos\RestaurantMenuApp\RestaurantMenuApp\obj\Debug\RestaurantMenuApp.pdb
